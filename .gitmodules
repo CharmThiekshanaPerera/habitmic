@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CharmThiekshanaPerera/backend.git
+[submodule "habitmic-web-frontend"]
+	path = habitmic-web-frontend
+	url = https://github.com/CharmThiekshanaPerera/frontend.git
